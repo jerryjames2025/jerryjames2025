@@ -7,8 +7,9 @@ My experience includes developing projects in Machine Learning, Deep Learning, D
 I continuously enhance my technical expertise through hands-on projects, industry-relevant learning, and practical implementation of modern data science techniques. My focus is on building scalable, data-driven solutions while staying updated with emerging trends in Artificial Intelligence and Analytics.
 I am open to opportunities where I can contribute, learn, and grow in the fields of Data Science, Machine Learning, Artificial Intelligence, and Data Analytics.
 .</p>
+<h4>🔹 Skills</h4>
 <p>
-  🔹 Skills
+  
 Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Python | SQL | Power BI | Data Analytics | Data Visualization | Exploratory Data Analysis (EDA) | Predictive Modeling | Feature Engineering | TensorFlow | Scikit-Learn | Pandas | NumPy | Streamlit | Model Deployment | Linear Regression | Logistic Regression | Decision Trees | Random Forest | Gradient Boosting | XGBoost | Neural Networks | CNN
 </p>
 <p><img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image"></p>
