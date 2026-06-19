@@ -16,7 +16,9 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 <p align="center">
   <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image" width="50%">
 </p>
-
+<p align="center">
+  <img src="https://www.teranalytics.com/data-or-data-are/#iLightbox[gallery433]/0 " width="50%">
+</p>
 
 <hr>
 
