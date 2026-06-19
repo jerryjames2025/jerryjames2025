@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cool-comp.jpg" alt="Nature landscape with trees" width="50%">
+  <img src="cool-comp.jpg" alt="Nature landscape with trees" width="30%">
 </p>
 
 <h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
