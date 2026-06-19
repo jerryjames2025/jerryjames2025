@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cool-comp" alt="Nature landscape with trees" width="100%">
+  <img src="cool-comp.jpg" alt="Nature landscape with trees" width="100%">
 </p>
 
 <h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
@@ -24,7 +24,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 
 <p align="center">
-  <img src="" alt="Nature landscape with trees" width="100%">
+  <img src="" alt="" width="100%">
 </p>
 
 <hr>
