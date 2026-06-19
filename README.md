@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="",src="" alt="" width="30%">
+  <img src="5065282.jpg" alt="" width="30%">
 </p>
 
 <h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
