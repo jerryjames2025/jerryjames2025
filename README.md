@@ -20,7 +20,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 
 <p align="center">
-  <img src="images/landscape.jpg" alt="Nature landscape with trees" width="100%">
+  <img src="landscape.jpg" alt="Nature landscape with trees" width="100%">
 </p>
 
 <hr>
