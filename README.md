@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="landscape.jpg" alt="Nature landscape with trees" width="100%">
+  <img src="horse.jpg" alt="Nature landscape with trees" width="100%">
 </p>
 
 <h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
