@@ -17,7 +17,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
   <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image" width="50%">
 </p>
 <p align="center">
-  <img src="https://pin.it/3GyAovmbK" width="50%">
+  <img src="https://pin.it/3K3ucpdea" width="50%">
 </p>
 
 <hr>
