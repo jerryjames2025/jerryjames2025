@@ -24,14 +24,14 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 <p align="center">
   <img src="download (11).jpg" alt="" width="70%" height="">
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image" width="50%">
-</p>
+
 
 <p align="center">
   <img src="" alt="" width="100%">
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image" width="50%">
+</p>
 <hr>
 
 
