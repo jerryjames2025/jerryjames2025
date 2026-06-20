@@ -3,12 +3,11 @@
 
 
                                                                     
-<h1 id="hi-this-is-emrah">Hi,   !</h1> 
+ 
                                                                 
-<h1 id="hello-there">Hello there 👋 ....... i am Jerry James -->  /__\
-                                                                 (* _ *) 
-                                                                 (_____)
-                                                                 </   \>     </h1>
+<h1 id="hello-there">Hello there 👋 ....... i am Jerry James --> 
+                                                                 (* ?_ *) 
+                                                                  </h1>
 <h2>About</h2>
 <p>
 I am a Data Science enthusiast with a strong foundation in Machine Learning, Deep Learning, Data Analytics, and Business Intelligence. I am passionate about leveraging data to uncover insights, solve complex problems, and build intelligent solutions that create real-world impact.
