@@ -38,7 +38,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 
   
 
-<p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
+<!-- <p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
 <ul>
 <li>🧐   Interested in full stack. Recent focus on backend.</li>
 <li>💼   Senior Back End Engineer at Alibaba Group.</li>
@@ -51,8 +51,8 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </ul>
 <details open="">
   <summary>Some other achievements about me~e~e</summary>
-  <br>
-<ul>
+  <br> -->
+<!-- <ul>
 <li>🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.</li>
 <li>🍎   Apple Developer.👨🏻‍💻 &amp; Apple Teacher.🤪</li>
 </ul>
@@ -71,7 +71,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 </details>
 <hr>
-<p align="center">
+<p align="center"> -->
   <i>Take a look at my repositories and let's get in touch!</i>
 </p><p align="center">
 <a href="https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"></a>
