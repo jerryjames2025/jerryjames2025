@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="download (11).jpg" alt="" width="70%" height="">
-</p>
+<p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
+
+
+
 
 <h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
 <h2>About</h2>
@@ -26,11 +27,13 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 
 <hr>
-
+<p align="center">
+  <img src="download (11).jpg" alt="" width="70%" height="">
+</p>
 
 
   <h1 id="hello-there">Hello there 👋</h1>
-<p><img src="https://github.com/halfrost/halfrost/blob/master/icons/header_.png" alt=""></p>
+
 <p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
 <ul>
 <li>🧐   Interested in full stack. Recent focus on backend.</li>
