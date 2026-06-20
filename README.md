@@ -21,7 +21,9 @@ I am open to opportunities where I can contribute, learn, and grow in the fields
 <p>
 Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Python | SQL | Power BI | Data Analytics | Data Visualization | Exploratory Data Analysis (EDA) | Predictive Modeling | Feature Engineering | TensorFlow | Scikit-Learn | Pandas | NumPy | Streamlit | Model Deployment | Linear Regression | Logistic Regression | Decision Trees | Random Forest | Gradient Boosting | XGBoost | Neural Networks | CNN
 </p>
-
+<p align="center">
+  <img src="download (11).jpg" alt="" width="70%" height="">
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" alt="image" width="50%">
 </p>
@@ -31,9 +33,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 
 <hr>
-<p align="center">
-  <img src="download (11).jpg" alt="" width="70%" height="">
-</p>
+
 
 
   
