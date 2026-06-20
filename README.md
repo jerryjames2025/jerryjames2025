@@ -2,8 +2,11 @@
 
 
 
-
-<h1 id="hi-this-is-emrah">Hi, i am Jerry James --> !</h1>
+                                                                    
+<h1 id="hi-this-is-emrah">Hi,   !</h1>                            /__\
+<h1 id="hello-there">Hello there 👋 ....... i am Jerry James --> (* *) 
+                                                                  (__)
+                                                                 </  \>     </h1>
 <h2>About</h2>
 <p>
 I am a Data Science enthusiast with a strong foundation in Machine Learning, Deep Learning, Data Analytics, and Business Intelligence. I am passionate about leveraging data to uncover insights, solve complex problems, and build intelligent solutions that create real-world impact.
@@ -32,7 +35,7 @@ Data Science | Machine Learning | Deep Learning | Artificial Intelligence | Pyth
 </p>
 
 
-  <h1 id="hello-there">Hello there 👋</h1>
+  
 
 <p>I make elegantly professional <strong>💻 Distributed Systems, 📱 iOS apps and 🌐 Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈</p>
 <ul>
