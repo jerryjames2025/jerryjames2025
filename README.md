@@ -5,10 +5,10 @@
                                                                     
  
  <p>                                                               
-<h2 id="hello-there">Hello there 👋 ....... i am Jerry James --> 
-                                                                 (* ?_ *) 
+<h2 id="hello-there"> 
                                                                   </h2></p>
-<h3>About</h3>
+<h3>Hello there 👋 ....... i am Jerry James --> 
+                                                                 (* ?_ *)</h3>
 <p>
 I am a Data Science enthusiast with a strong foundation in Machine Learning, Deep Learning, Data Analytics, and Business Intelligence. I am passionate about leveraging data to uncover insights, solve complex problems, and build intelligent solutions that create real-world impact.
 My experience includes developing projects in Machine Learning, Deep Learning, Data Visualization, Predictive Analytics, and Business Intelligence using tools such as Python, SQL, Power BI, TensorFlow, Scikit-Learn, Pandas, and NumPy. I enjoy working across the complete data science workflow, from data collection and preprocessing to model development, evaluation, and deployment.
